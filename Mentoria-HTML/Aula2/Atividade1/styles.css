@@ -1,0 +1,28 @@
+body {
+    background-color: #fff0f5;
+    font: Arial, sans-serif;
+    color: #4b2c3f;
+    padding: 20px;
+}
+
+h1 {
+    color: #d63384
+}
+
+h2 {
+    color: #ff69b4
+}
+
+p {
+    font-size: 16px;
+}
+
+ul {
+    font-size: 16px;
+}
+
+img {
+    border-radius: 10px;
+    width: 300px;
+
+}
