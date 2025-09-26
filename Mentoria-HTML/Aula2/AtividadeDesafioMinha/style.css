@@ -1,21 +1,26 @@
 #topo {
- color: #9d4f0c;
+ color: #ee8f44;
+ text-align: center;
+
  }
 
 body {
-    background-color: #fdfcd0;
+    background-color: #d9edf2;
     font-family: "Times New Roman", sans-serif;
     color: #01010a;
 }
 
 h2 {
     color: #e85d04;
+
 }
 
 .inicio {
-    color: #e8e012
+    color: #ee444e
+
 }
 
 .importante {
     color: #9d980c;
+
 }
