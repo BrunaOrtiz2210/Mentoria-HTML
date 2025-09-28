@@ -1,0 +1,12 @@
+.cartao {
+    background-color: #fff;
+    border: 1px solid #0000;
+    padding: 20px;
+    width: 400px;
+    margin: 10px auto;
+    border-radius: 8px;
+}
+
+.cartao h1, p {
+    text-align: center;
+}
